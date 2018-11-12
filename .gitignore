@@ -1,2 +1,8 @@
 build-*
 *.pro.user
+qtpropertybrowser/.qmake.stash
+qtpropertybrowser/config.pri
+qtpropertybrowser/Makefile
+qtpropertybrowser/buildlib/
+qtpropertybrowser/lib/
+qtpropertybrowser/examples/
